@@ -38,7 +38,7 @@ Nesta adaptação, a lógica original foi mantida, alterando apenas o contexto p
 2. Navegue até a pasta:
 
 ```text
-logica-de-programacao/desafio-01-classificador-heroi
+logica-de-programacao/desafio-01-classificador-heroi/src/Main.java
 ```
 
 3. Execute a classe `Main.java`.
