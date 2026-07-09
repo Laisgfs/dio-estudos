@@ -11,7 +11,7 @@ Os projetos estão organizados por formação, facilitando a navegação e o aco
 
 | Formação | Projeto | Status |
 |----------|----------|--------|
-| Lógica de Programação | [Desafio 01 - Classificador de Nível de Herói]([src/Main.java](https://github.com/Laisgfs/dio-estudos/tree/main/src)) | Concluído |
+| Lógica de Programação | [Desafio 01 - Classificador de Nível de Herói](https://github.com/Laisgfs/dio-estudos/tree/main/logica-de-programacao/desafio-01-classificador-heroi) | Concluído |
 
 
 ## Próximos desafios
