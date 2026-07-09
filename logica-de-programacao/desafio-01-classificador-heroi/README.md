@@ -34,19 +34,13 @@ Nesta adaptação, a lógica original foi mantida, alterando apenas o contexto p
 
 ## Como executar
 
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/Laisgfs/dio-estudos.git
-```
-
-2. Abra o projeto em uma IDE compatível com Java.
-3. Navegue até a pasta:
+1. Abra o projeto em uma IDE compatível com Java.
+2. Navegue até a pasta:
 
 ```text
 logica-de-programacao/desafio-01-classificador-heroi
 ```
 
-4. Execute a classe `Main.java`.
-5. Informe o nome de um integrante do Bando do Chapéu de Palha para visualizar sua recompensa correspondente.
+3. Execute a classe `Main.java`.
+4. Informe o nome de um integrante do Bando do Chapéu de Palha para visualizar sua recompensa correspondente.
 
